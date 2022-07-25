@@ -4,7 +4,7 @@
 ## Learning Competencies
 Melakukan debugging di JavaScript
 
-##S ummary
+## Summary
 
 Kamu diberikan source code yang bertujuan untuk mengecek bila suatu kata adalah palindrome bila 2 huruf (yang berdekatan) kata tersebut ditukar. Contoh kata palindrom adalah racecar. Bila function `palindromeSwapper` menerima input “raeccar” maka function akan me-return nilai true (lebih jelasnya lihat pola penukaran huruf pada file js yang terdapat pada repository).
 
