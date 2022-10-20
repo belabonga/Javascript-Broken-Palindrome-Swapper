@@ -1,4 +1,4 @@
-# hcktv-P1-W1D1-BrokenPalindromeSwapper
+# Javascript - Broken Palindrome Swapper
 
 # Broken Palindrome Swapper
 ## Learning Competencies
